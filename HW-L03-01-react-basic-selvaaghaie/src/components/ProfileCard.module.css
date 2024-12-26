@@ -1,0 +1,9 @@
+.ProfileCardList{
+list-style-type: none;
+padding-top: 2rem;
+padding-bottom:2rem;
+}
+.ProfileCardListItem{
+    line-height: 2.5rem;
+    font-weight: 300;
+}

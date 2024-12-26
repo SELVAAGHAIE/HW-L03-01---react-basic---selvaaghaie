@@ -1,0 +1,28 @@
+.ImageCardImg{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+
+.cardContainer{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-family: arial;
+    margin-top: 8.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    border:10px solid #33383c;
+    color: #ffffff;
+    width: 40%;
+    padding: 2rem;
+    background-color: #6c757d;
+    
+}
+
+.cardContainer:hover{
+    background-color: #91aac0;
+    color:#ffffff ;
+}
